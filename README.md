@@ -1,0 +1,1 @@
+# mail-mandrill-base
