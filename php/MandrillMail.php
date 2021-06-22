@@ -14,7 +14,7 @@ require_once('vendor/autoload.php');
 class MandrillMail
 {
 
-	//NOTE: replace this values by your CONSTANTS file for mor security
+	//NOTE: replace this values by your CONSTANTS file for more security
 
 	private $public_key = 'YOUR_API_KEY';
 	private $from_name  = 'NAME_HERE';
