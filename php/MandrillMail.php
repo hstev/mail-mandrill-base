@@ -18,7 +18,7 @@ class MandrillMail
 
 	private $public_key = 'YOUR_API_KEY';
 	private $from_name  = 'NAME_HERE';
-	private $from_email = 'noreply@notialert.com';
+	private $from_email = 'noreply@domain.com';
 	private $template	= '';
 	private $campaing   = '';
 	private	$mailchimp  = NULL;
