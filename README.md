@@ -16,7 +16,7 @@ $mandrill->send_html('Subject', 'Text or HTML content', 'contact@domain.com');
 | LANGUAGE | STATUS |
 | ------ | ------ |
 | PHP | DONE |
-| Node | - |
+| Node | DONE |
 | Python | - |
 | Java | - |
 | C# | - |
